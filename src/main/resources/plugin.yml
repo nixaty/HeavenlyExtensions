@@ -1,0 +1,11 @@
+name: HeavenlyExtensions
+version: '${project.version}'
+main: org.heavenly.heavenlyextensions.HeavenlyExtension
+api-version: '1.20'
+prefix: HeavenlyEX
+authors: [nixaty]
+commands:
+  nickstate:
+    description: Select the nickname display mode.
+    usage: /nickstate <mode>
+    permission: heavenlyextensions.command.nickstate

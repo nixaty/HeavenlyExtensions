@@ -1,0 +1,12 @@
+# config.yml
+
+# Настроить рецепты неванильных крафтов
+hcrafts:
+  invisible_frames:
+    enable_default: true
+    enable_glow: true
+
+    # Добавляет невидимым рамкам эффект свечения
+    enable_glowing: true
+
+    # Усложняет рецепт крафта
